@@ -1,15 +1,38 @@
 
+
+@font-face {
+    font-family: '7th_service_condensedCn';
+    src: url('7thc-webfont.woff2') format('woff2'),
+         url('7thc-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'code_new_roman';
+    src: url('rzr/cnr-webfont.woff2') format('woff2'),
+         url('rzr/cnr-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 /* --- ############# xxx ############# --- */
 
 
 /* --- ############# xxx ############# --- */
-
+ .logo{
+    color: #009999;
+    font-family: '7th_service_condensedCn';
+}
 
 /* --- ############# xxx ############# --- */
 
 
 /* --- ############# xxx ############# --- */
-
+.color-main{color: #009999;}
+.poo{
+    font-size: 1.5em;
+}
 
 /* --- ############# xxx ############# --- */
 
@@ -19,14 +42,6 @@
 
 /* --- ############# 
 
-??? maybe??
-
-font-family: 'Lato', sans-serif;
-font-family: 'Aleo', serif;
-
-<link href="https://fonts.googleapis.com/css?family=Aleo|Lato" rel="stylesheet"> 
-
-???
 
  ############# --- */
 
